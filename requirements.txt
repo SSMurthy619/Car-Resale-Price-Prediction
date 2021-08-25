@@ -1,4 +1,4 @@
-﻿argcomplete==1.12.3
+argcomplete==1.12.3
 argon2-cffi==20.1.0
 attrs==21.2.0
 backcall==0.2.0
